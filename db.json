@@ -23,6 +23,12 @@
       "categoria": "css",
       "descripcion": "Lenguaje de estilización de etiquetas HTML fundamental junto con HTML en el desarrollo web.",
       "color": "#6B5BE2"
+    },
+    {
+      "id": 5,
+      "categoria": "tips",
+      "descripcion": "Consejos para comprender el panorama general al momento de decidir aprender a programar",
+      "color": "#FFFF00"
     }
   ],
   "videos": [
@@ -217,6 +223,54 @@
       "descripcion": "Curso de CSS muy completo con más de 11 horas de contenido",
       "url": "https://www.youtube.com/embed/n4R2E7O-Ngo",
       "imagen": "https://i3.ytimg.com/vi/n4R2E7O-Ngo/maxresdefault.jpg"
+    },
+    {
+      "id": 25,
+      "titulo": "¿Por Qué Estudiar Programación?",
+      "categoria": "tips",
+      "descripcion": "Motivos para aprender a programar y comprensión de que la programación moldea la socidad del siglo XXI",
+      "url": "https://www.youtube.com/embed/PlaQ913yggM",
+      "imagen": "https://i3.ytimg.com/vi/PlaQ913yggM/maxresdefault.jpg"
+    },
+    {
+      "id": 26,
+      "titulo": "¿Es necesario que vaya a la universidad para aprender programacion?",
+      "categoria": "tips",
+      "descripcion": "Aprender a programar no es algo exclusivo dictado por universidades, de hecho existen universidades o institutos que utilizan como recurso de aprendizaje contenido disponible en internet de fuentes que enseñan programación o generan tecnología. Por ese motivo recurrir a las fuentes mismas de generación de contenido de programación SIEMPRE será algo mucho más eficiente y, en muchos casos, mucho más económico.",
+      "url": "https://www.youtube.com/embed/ussBmFfyZFo",
+      "imagen": "https://i3.ytimg.com/vi/ussBmFfyZFo/maxresdefault.jpg"
+    },
+    {
+      "id": 27,
+      "titulo": "¡Prepárate para el Cambio! Tips para una Transición de Carrera exitosa",
+      "categoria": "tips",
+      "descripcion": "Es sabido que en pleno siglo XXI la tecnología modela la vida y cambia dinámicas de manera mucho más rapida que en épocas pasadas, empresas nuevas surgen en todos los estratos sociales. Es ese fenómeno que gatilla que muchas personas que estudiaron para cierta profesión y esten estancadas en su crecimiento profesional o no se les valore como se debe, deseen hacer un cambio profesional y emprender una transición de carrera hacia la industria tecnológica la cual presenta mayor posibilidad de desarrollo profesional y salidas del tipo freelance.",
+      "url": "https://www.youtube.com/embed/hqBddtoMn-k",
+      "imagen": "https://i3.ytimg.com/vi/hqBddtoMn-k/maxresdefault.jpg"
+    },
+    {
+      "id": 28,
+      "titulo": "¿Cómo ser un Profesional en T? Conociendo al Tech Guide",
+      "categoria": "tips",
+      "descripcion": "Un Profesional Tech necesita tener conocimientos generales o transversales para pensar en soluciones como un todo junto con el conocimiento especializado o técnico propio de su campo.",
+      "url": "https://www.youtube.com/embed/0udk1vXmwkc",
+      "imagen": "https://i3.ytimg.com/vi/0udk1vXmwkc/maxresdefault.jpg"
+    },
+    {
+      "id": 29,
+      "titulo": "¿Sabes cómo organizar tu rutina de estudio? Descubre aquí",
+      "categoria": "tips",
+      "descripcion": "Para enfrentar con éxito el mundo tech se requiere tener una rutina de estudio continua al punto de hacerlo un hábito diario y para eso es vital re-estructurar el estilo de vida con miras a cumplir tales metas. Por tanto, la gestión del tiempo de manera eficiente es clave para mantener la motivación y lograr avanzar.",
+      "url": "https://www.youtube.com/embed/3mDnrL8YVaA",
+      "imagen": "https://i3.ytimg.com/vi/3mDnrL8YVaA/maxresdefault.jpg"
+    },
+    {
+      "id": 30,
+      "titulo": "La importancia de la Visión de Negocio para las personas desarrolladoras",
+      "categoria": "tips",
+      "descripcion": "Un desarrollador no debe aislarse en su área puesto que esta inserto en un sistema, sistema que se fundamenta en ser negocio. La visión que debe poseer es una visión holistica o sistémica y razonar en cómo su trabajo se acopla a dicho negocio. Lo anterior se hace concreto al desarrollador en lo que se conoce como Reglas de Negocio.",
+      "url": "https://www.youtube.com/embed/PtPyM0ZgshA",
+      "imagen": "https://i3.ytimg.com/vi/PtPyM0ZgshA/maxresdefault.jpg"
     }
   ]
 }
