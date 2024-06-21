@@ -1,10 +1,11 @@
 {
   "name": "dataapiprogrammingtube",
   "version": "1.0.0",
-  "description": "",
+  "description": "fake api to deploy on vercel",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node api/index.js",
+    "dev": "node --watch api/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,8 +20,6 @@
   },
   "homepage": "https://github.com/Waldo-analista/dataAPIprogrammingTUBE#readme",
   "dependencies": {
-    "cors": "^2.8.5",
-    "json-serve": "^0.1.0",
-    "json-server": "^0.17.3"
+    "json-server": "^1.0.0-beta.1"
   }
 }
